@@ -1,0 +1,16 @@
+C:\Users\Jeff\Downloads\LinkedListTest\LinkedListTest\bin\Debug\LinkedListTest.exe
+C:\Users\Jeff\Downloads\LinkedListTest\LinkedListTest\bin\Debug\LinkedListTest.pdb
+C:\Users\Jeff\Downloads\LinkedListTest\LinkedListTest\obj\Debug\LinkedListTest.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\Downloads\LinkedListTest\LinkedListTest\obj\Debug\LinkedListTest.exe
+C:\Users\Jeff\Downloads\LinkedListTest\LinkedListTest\obj\Debug\LinkedListTest.pdb
+C:\Users\Jeff\Downloads\LinkedListTest - Copy\LinkedListTest\bin\Debug\LinkedListTest.exe
+C:\Users\Jeff\Downloads\LinkedListTest - Copy\LinkedListTest\bin\Debug\LinkedListTest.pdb
+C:\Users\Jeff\Downloads\LinkedListTest - Copy\LinkedListTest\obj\Debug\LinkedListTest.csprojAssemblyReference.cache
+C:\Users\Jeff\Downloads\LinkedListTest - Copy\LinkedListTest\obj\Debug\LinkedListTest.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\Downloads\LinkedListTest - Copy\LinkedListTest\obj\Debug\LinkedListTest.exe
+C:\Users\Jeff\Downloads\LinkedListTest - Copy\LinkedListTest\obj\Debug\LinkedListTest.pdb
+D:\个人文件夹\2018\LinkedListTest\LinkedListTest\obj\Debug\LinkedListTest.exe
+D:\个人文件夹\2018\LinkedListTest\LinkedListTest\obj\Debug\LinkedListTest.pdb
+D:\个人文件夹\2018\LinkedListTest\LinkedListTest\bin\Debug\LinkedListTest.exe
+D:\个人文件夹\2018\LinkedListTest\LinkedListTest\bin\Debug\LinkedListTest.pdb
+D:\个人文件夹\2018\LinkedListTest\LinkedListTest\obj\Debug\LinkedListTest.csprojResolveAssemblyReference.cache
